@@ -9,5 +9,7 @@
   "acesso_liberado": true,
   "nome": "Felipe de Sousa",
   "cpf": "19100000000",
-  "telefone": "11987206971"
+  "telefone": "11987206971",
+  "senha": "teste1234",
+  "data_recuperacao": "2025-08-21T12:58:55.470Z"
 }
